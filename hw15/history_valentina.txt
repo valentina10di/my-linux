@@ -1,0 +1,19 @@
+   0 ssh ec2-user@linux.itcareerhub.de
+   1 nano sleeper.sh
+   2 chmod +x sleeper.sh
+   3 ./sleeper.sh
+   4 nano sleeper.sh
+   5 cat os_name.txt
+   6 nano sleeper.sh
+   7 cat os_name.txt
+   8 cat /etc/os-release | grep "NAME="
+   9 cat os_name.txt
+  10 nano sleeper.sh
+  11 chmod +x sleeper.sh
+  12 ./sleeper.sh
+  13 cat os_name.txt
+  14 cat os_name_clean.txt
+  15 ls [5-9]*.txt 100.txt | wc -l
+  16 exsport_sleeper.sh
+  17 export_file sleeper.sh
+  18 history > history_valentina.txt
